@@ -1,0 +1,23 @@
+﻿{
+    "name": "com.ni-games.ni_prefs_fetcher",
+    "version": "1.0.0",
+    "displayName": "Ni Prefs Fetcher",
+    "description": "A tool to get a list of all PlayerPrefs entries for most platforms.",
+    "unity": "2021.3",
+    "documentationUrl": "",
+    "dependencies": {},
+    "optionalDependencies": {
+        "com.ni-games.ni_prefs": "1.0.0"
+    },
+    "keywords": [
+        "NiGames",
+        "NiPrefs",
+        "PlayerPrefs",
+        "Player Preferences"
+    ],
+    "author": {
+        "name": "HoSHIZA",
+        "email": "hoshiza78@gmail.com",
+        "url": "https://github.com/HoSHIZA"
+    }
+}

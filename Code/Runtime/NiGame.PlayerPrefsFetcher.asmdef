@@ -1,0 +1,22 @@
+{
+    "name": "NiGame.PlayerPrefsFetcher",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7d0eea077e7ef034fa9cc5cd9ed58ff5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.ni-games.ni_prefs",
+            "expression": "1.0.0",
+            "define": "NIGAMES_PLAYER_PREFS_INTEGRATION"
+        }
+    ],
+    "noEngineReferences": false
+}
